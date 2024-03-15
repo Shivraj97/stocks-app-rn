@@ -1,0 +1,7 @@
+configurationset:
+  - configuration:
+      name: postgresql_config
+      uri: postgresql://ep-yellow-wood-a1rzjcf0.ap-southeast-1.aws.neon.tech/stocks_db?user=Shivraj97&password=lSZfMiH0so7J
+  - configuration:
+      name: twelvedata
+      Authorization: apikey 10ef45c1a91f4f26b61c78ac2ae1d877
